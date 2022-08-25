@@ -1,0 +1,20 @@
+# Java
+./java/target
+*.class
+
+# Go
+./go/bin
+./go/pkg
+./go/.vendor
+*.o
+*.a
+*.exe
+*.dll
+*.so
+*.test
+*.out
+
+# Others
+.vscode
+*.log
+*.prof
